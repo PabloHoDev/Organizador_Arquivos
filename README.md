@@ -18,4 +18,4 @@ Script em Python para organizar automaticamente arquivos de uma pasta com base e
 - Manipulação de arquivos
 - Automação com Python
 - Bibliotecas os e shutil
-- Estruturas de dados
+- Estruturas de Dados
