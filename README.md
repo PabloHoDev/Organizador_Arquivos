@@ -5,8 +5,6 @@
  ┣ 📄 README.md
  ┗ 📂 pasta_teste
 
-# 📁 Organizador de Arquivos em Python
-
 Script em Python para organizar automaticamente arquivos de uma pasta com base em suas extensões.
 
 ## 🚀 Funcionalidades
